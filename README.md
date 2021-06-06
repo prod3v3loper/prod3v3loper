@@ -1,13 +1,11 @@
-### Hi there 👋
-<!--
-**prod3v3loper/prod3v3loper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# Hi there 👋
+ ✨ _special_ ✨
 
-🔭 I’m currently working on:
+### 🔭 I’m currently working on:
   what I enjoy
   
-🌱 I’m currently learning:
-  what I enjoy
+### 🌱 I’m currently learning:
+  💻 Java Coding
   
 <!--
 - 👯 I’m looking to collaborate on ...
