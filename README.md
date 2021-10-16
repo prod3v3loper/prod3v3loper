@@ -6,11 +6,18 @@
 
 - E-Mail-Marketing tool <sub><sup>(Name follows)</sup></sub>
 
-### 📚 I’m currently learning:
+### 📚 I’m currently learning languages:
 
 - Java
 - iOS swift
 - Python
+
+### 📒 I’m currently learning frameworks:
+
+- Symfony 5
+- Docker
+- Makefile
+- ...
 
 ### 🛠 I use these editors
 
