@@ -19,11 +19,12 @@
 - Makefile
 - ...
 
-### 🛠 I use these editors
+### 🛠 I’m use currently these editors:
 
 - NetBeans
 - PHPStorm
-- VSC
+- VSC (Visual Studio Code)
+- Xcode
 
 <!--
 - 👯 I’m looking to collaborate on ...
