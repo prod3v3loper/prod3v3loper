@@ -19,7 +19,7 @@
 - Makefile
 - ...
 
-### 🛠 I’m use currently these editors:
+### 🛠 I use currently these editors:
 
 - NetBeans
 - PHPStorm
