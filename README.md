@@ -1,12 +1,23 @@
 # Hi there 👋
- ✨ _special_ ✨
+
+✨ _special_ ✨
 
 ### 🔭 I’m currently working on:
-  what I enjoy
-  
-### 🌱 I’m currently learning:
-  💻 Java Coding
-  
+
+- E-Mail-Marketing tool <sub><sup>(Name follows)</sup></sub>
+
+### 📚 I’m currently learning:
+
+- Java
+- iOS swift
+- Python
+
+### 🛠 I use these editors
+
+- NetBeans
+- PHPStorm
+- VSC
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
