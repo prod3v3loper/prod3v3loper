@@ -1,6 +1,6 @@
 # Hi there 👋
 
-✨ _special_ ✨
+✨ _special private_ ✨
 
 ### 🔭 I’m currently working on:
 
