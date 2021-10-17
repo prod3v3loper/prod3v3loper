@@ -4,7 +4,7 @@
 
 # PROD3V3LOPER
 
-✨ _special private_ ✨
+✨ _special_ ✨
 
 ### 🔭 I’m currently working on:
 
