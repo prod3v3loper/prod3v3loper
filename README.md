@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![Logo](logo.png)
+
 ✨ _special private_ ✨
 
 ### 🔭 I’m currently working on:
