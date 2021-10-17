@@ -1,6 +1,7 @@
-# Hi there 👋
-
 ![Logo](logo.png)
+
+<div align="center">
+# Hi there 👋
 
 ✨ _special private_ ✨
 
@@ -36,3 +37,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
