@@ -10,38 +10,24 @@
 ✨ _special_ ✨
 
 ### 🔭 I’m currently working on:
-
-E-Mail-Marketing tool
-
-<sub><sup>(Name follows)</sup></sub>
+Many things
+  
+Main is **Blockchain**
 
 ### 📚 I’m currently learning languages:
-
-Java
-
-iOS swift
-
-Python
+Many languages
+  
+Main is **Solidity**
 
 ### 📒 I’m currently learning frameworks:
-
-Symfony 5
-
-Docker
-
-Makefile
-
-...
+Many frameworks
 
 ### 🛠 I use currently these editors:
-
-NetBeans
-
-PHPStorm
-
-VSC (Visual Studio Code)
-
-Xcode
+Many editors
+  
+Main is **VSCode**
+  
+</div>
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -51,4 +37,3 @@ Xcode
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
