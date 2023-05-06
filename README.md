@@ -27,6 +27,10 @@ Many editors
   
 Main is **VSCode**
   
+My Packages:
+Composer: https://packagist.org/users/prod3v3loper/
+NPM: https://www.npmjs.com/~prod3v3loper
+  
 </div>
 
 <!--
